@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+<app-component id="app"></app-component>
+</body>
+
+<script type="module" >
+import { defineComponent, html } from 'https://unpkg.com/@vue/lit';
+defineComponent('app-component',() => {
+  return () => {
+    return html`<div>
+      <h1>Hello Word</h1>
+    <dvi>`
+  }
+})
+console.log(document.body)
+
+</script>
+</html>
