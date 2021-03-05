@@ -4,23 +4,36 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <style>
+    .not {
+      color: red
+    }
+  </style>
 </head>
 <body>
+  <%div%>
 </body>
 
 <script type="module" >
 try {
   console.log('<%world%>')
   console.log('<%file%>')
-  console.log('<%worldCN%>')
-  console.log('<%NotCnMap%>')
-  console.log('<%NotJson%>')
-  console.log('<%T%>')
+  console.log('<%cn%>')
 } catch (e) {
   console.log(e)
   console.log('<%%>')
 } finally {
   
 }
+window.onclick = (e) => {
+  if(e.target.nodeName === 'BUTTON') {
+    let value = e.target.nextElementSibling.value;
+    if(value) {
+      open(`/set?label=${e.target.value}&value=${value}`);
+    }
+  }
+
+}
+
 </script>
 </html>
