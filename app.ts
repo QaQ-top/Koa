@@ -103,12 +103,129 @@ router.get('/codeModule', async (ctx, next) => {
   ctx.body = "<h2>完成</h2>"
 })
 
+router.get('/set-name', async (ctx, next) => {
+  await next();
+  ctx.set({
+    'Content-Type': 'text/html;charset=utf-8'
+  });
+
+  // 读取目录
+  const file = await readdirSync(resolve(__dirname, '../../../dev/ziniao/a8-cloud-sum-web-site-background/src/components/echartsmap/echarts-map-data-master/world/geojson'));
+ console.log(file)
+
+  // await file.map(async i => {
+  //   const world = await readFileSync(resolve(__dirname, `../../../dev/ziniao/a8-cloud-sum-web-site-background/src/components/echartsmap/echarts-map-data-master/world/geojson/${i}`));
+  //   const city = new Function(`return ${world}`)();
+  //   if(city.features) {
+  //     (city.features as any[]).forEach((i, n) => {
+  //       console.log(i.properties.name, n)
+  //       // i.properties.name = n;
+  //     })
+  //   };
+  //   // await writeFileSync(resolve(__dirname, `../../../dev/ziniao/a8-cloud-sum-web-site-background/src/components/echartsmap/echarts-map-data-master/world/geojson/${i}`), JSON.stringify(city));
+  // })
+
+  
+  
+  // console.log('ffffffff',div)
+
+  ctx.body = file.length
+});
+
+router.get('/set-map', async (ctx, next) => {
+  await next();
+  ctx.set({
+    'Content-Type': 'text/html;charset=utf-8'
+  });
+
+  // 读取目录
+  const file = await readdirSync(resolve(__dirname, './map'));
+
+  await file.map(async i => {
+    // const world = await readFileSync(resolve(__dirname, `./map/${i}`));
+    // const yr = await readFileSync(resolve(__dirname, `./echarts-map-data-master/world/geojson/${i}`));
+    // const city = new Function(`return ${world}`)();
+    // const yrObj = new Function(`return ${yr}`)();
+    // let newObj = {} as {[k:string]: any}
+    // for (const key in city) {
+    //   if (Object.prototype.hasOwnProperty.call(city, key)) {
+    //     const element = yrObj.features[key]?.properties?.name || '';
+    //     newObj[key] = {
+    //       "cn": city[key], 
+    //       "local": element
+    //     }
+    //     console.log({
+    //       "cn": city[key], 
+    //       "local": element
+    //     })
+    //   }
+    // }
+
+    const world = await readFileSync(resolve(__dirname, `./generate/map/${i.replace('.json', '-map.json')}`));
+    // const city = new Function(`return ${world}`)();
+    if(/{{bj}}/g.test(world.toString())) {
+      console.log(i.replace('.json', '-map.json'))
+    }
+    
+    // await writeFileSync(resolve(__dirname, `./generate/map/${i.replace('.json', '')}-map.json`), JSON.stringify(newObj));
+  })
+
+  
+  
+  // console.log('ffffffff',div)
+
+  ctx.body = "FFFFF"
+});
+/**
+ * const world = await readFileSync(resolve(__dirname, `./generate/map/${i.replace('.json', '-map.json')}`));
+    // const city = new Function(`return ${world}`)();
+    if(/{{bj}}/g.test(world.toString())) {
+      console.log(i)
+    }
+ */
+
+
+    router.get('/get-map', async (ctx, next) => {
+      await next();
+      ctx.set({
+        'Content-Type': 'text/html;charset=utf-8'
+      });
+    
+      // 读取目录
+      const file = await readFileSync(resolve(__dirname, "./test.json"));
+      const city = new Function(`return ${file}`)();
+      let arr = [1, 8, 9, 13, 14, 15, 25, 33, 47, 48, 51, 52, 58, 70, 72, 73, 83, 86, 88, 94, 104, 112, 119, 130, 134, 137, 138, 146, 156, 164, 174, 175, 179, 180, 186, 188, 195, 205, 207, 210]
+      let a: any = {
+        
+      }
+      city.features.forEach((i: any, n: number) => {
+        if(arr.includes(n)) {
+          console.log(n, i.properties.name)
+          a[n] = {
+            cn: i.properties.name,
+            "mapFileName" : ""
+          }
+        }
+      })
+      console.log(JSON.stringify(a))
+      
+      ctx.body = "FFFFF"
+    });
+
+
 app
   .use(router.routes())
   .use(router.allowedMethods());
 
 
-app.listen(3080);
+app.listen(999);
 
 
-console.log('%chttp://localhost:3080', 'color:#0f0;');
+console.log('%chttp://localhost:999', 'color:#0f0;');
+
+
+/**
+ * 173 Singapore
+174 S. Geo. and S. Sandw. Is.
+175 Saint Helena
+ */

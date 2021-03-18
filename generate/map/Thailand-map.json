@@ -1,0 +1,310 @@
+{
+  "0": {
+    "cn": "曼谷",
+    "local": "กรุงเทพมหานคร"
+  },
+  "1": {
+    "cn": "安纳乍能省",
+    "local": "Amnat Charoen Province"
+  },
+  "2": {
+    "cn": "通省",
+    "local": "Ang Thong Province"
+  },
+  "3": {
+    "cn": "汶干府",
+    "local": "Bueng Kan Province"
+  },
+  "4": {
+    "cn": "武里南府",
+    "local": "Buri Ram Province"
+  },
+  "5": {
+    "cn": "北柳府",
+    "local": "Chachoengsao Province"
+  },
+  "6": {
+    "cn": "猜纳府",
+    "local": "Chai Nat Province"
+  },
+  "7": {
+    "cn": "猜也蓬府",
+    "local": "Chaiyaphum Province"
+  },
+  "8": {
+    "cn": "尚塔布里省",
+    "local": "Chanthaburi Province"
+  },
+  "9": {
+    "cn": "清迈省",
+    "local": "Chiang Mai Province"
+  },
+  "10": {
+    "cn": "清莱府",
+    "local": "Chiang Rai Province"
+  },
+  "11": {
+    "cn": "春武里府",
+    "local": "Chon Buri Province"
+  },
+  "12": {
+    "cn": "春蓬府",
+    "local": "Chumphon Province"
+  },
+  "13": {
+    "cn": "加拉信",
+    "local": "Kalasin"
+  },
+  "14": {
+    "cn": "甘烹碧府",
+    "local": "Kamphaeng Phet Province"
+  },
+  "15": {
+    "cn": "北碧府",
+    "local": "Kanchanaburi Province"
+  },
+  "16": {
+    "cn": "孔敬府",
+    "local": "Khon Kaen Province"
+  },
+  "17": {
+    "cn": "甲米省",
+    "local": "Krabi Province"
+  },
+  "18": {
+    "cn": "南邦府",
+    "local": "Lampang Province"
+  },
+  "19": {
+    "cn": "南奔府",
+    "local": "Lamphun Province"
+  },
+  "20": {
+    "cn": "黎府",
+    "local": "Loei Province"
+  },
+  "21": {
+    "cn": "华富里以省",
+    "local": "Lopburi Province"
+  },
+  "22": {
+    "cn": "湄宏顺府",
+    "local": "Mae Hong Son Province"
+  },
+  "23": {
+    "cn": "马哈萨拉坎省",
+    "local": "Maha Sarakham Province"
+  },
+  "24": {
+    "cn": "穆达汉省",
+    "local": "Mukdahan Province"
+  },
+  "25": {
+    "cn": "那空那育府",
+    "local": "Nakhon Nayok Province"
+  },
+  "26": {
+    "cn": "佛统府",
+    "local": "Nakhon Pathom Province"
+  },
+  "27": {
+    "cn": "那空拍侬府",
+    "local": "Nakhon Phanom Province"
+  },
+  "28": {
+    "cn": "呵叻府",
+    "local": "Nakhon Ratchasima Province"
+  },
+  "29": {
+    "cn": "北揽坡府",
+    "local": "Nakhon Sawan Province"
+  },
+  "30": {
+    "cn": "洛坤府",
+    "local": "Nakhon Si Thammarat Province"
+  },
+  "31": {
+    "cn": "南部省",
+    "local": "Nan Province"
+  },
+  "32": {
+    "cn": "那拉提瓦省",
+    "local": "Narathiwat Province"
+  },
+  "33": {
+    "cn": "廊佛林府",
+    "local": "Nong Bua Lam Phu Province"
+  },
+  "34": {
+    "cn": "廊开府",
+    "local": "Nong Khai Province"
+  },
+  "35": {
+    "cn": "暖武里府",
+    "local": "Nonthaburi Province"
+  },
+  "36": {
+    "cn": "附近多个省",
+    "local": "Pathum Thani Province"
+  },
+  "37": {
+    "cn": "北大年王国",
+    "local": "Pattani Province"
+  },
+  "38": {
+    "cn": "攀牙省",
+    "local": "Phangnga Province"
+  },
+  "39": {
+    "cn": "博他伦府",
+    "local": "Phatthalung Province"
+  },
+  "40": {
+    "cn": "帕aya府",
+    "local": "Phayao Province"
+  },
+  "41": {
+    "cn": "碧差汶府",
+    "local": "Phetchabun Province"
+  },
+  "42": {
+    "cn": "佛丕府",
+    "local": "Phetchaburi Province"
+  },
+  "43": {
+    "cn": "披集府",
+    "local": "Phichit Province"
+  },
+  "44": {
+    "cn": "彭世洛府",
+    "local": "Phitsanulok Province"
+  },
+  "45": {
+    "cn": "帕府",
+    "local": "Phrae Province"
+  },
+  "46": {
+    "cn": "阿尤西省",
+    "local": "Phra Nakhon Si Ayutthaya Province"
+  },
+  "47": {
+    "cn": "普吉岛省",
+    "local": "Phuket Province"
+  },
+  "48": {
+    "cn": "巴真府",
+    "local": "Prachin Buri Province"
+  },
+  "49": {
+    "cn": "班武里府",
+    "local": "Prachuap Khiri Khan Province"
+  },
+  "50": {
+    "cn": "拉廊省",
+    "local": "Ranong Province"
+  },
+  "51": {
+    "cn": "叻武里府",
+    "local": "Ratchaburi Province"
+  },
+  "52": {
+    "cn": "罗永府省",
+    "local": "Rayong Province"
+  },
+  "53": {
+    "cn": "国王与省",
+    "local": "Roi Et Province"
+  },
+  "54": {
+    "cn": "萨卡约省",
+    "local": "Sa Kaeo Province"
+  },
+  "55": {
+    "cn": "沙功那空府",
+    "local": "Sakon Nakhon Province"
+  },
+  "56": {
+    "cn": "北榄府",
+    "local": "Samut Prakan Province"
+  },
+  "57": {
+    "cn": "龙仔厝府",
+    "local": "Samut Sakhon Province"
+  },
+  "58": {
+    "cn": "夜功府",
+    "local": "Samut Songkhram Province"
+  },
+  "59": {
+    "cn": "沙拉武里府",
+    "local": "Saraburi Province"
+  },
+  "60": {
+    "cn": "萨顿省",
+    "local": "Satun Province"
+  },
+  "61": {
+    "cn": "唱布利省",
+    "local": "Sing Buri Province"
+  },
+  "62": {
+    "cn": "沙格贴府",
+    "local": "Si Sa Ket Province"
+  },
+  "63": {
+    "cn": "宋卡省",
+    "local": "Songkhla Province"
+  },
+  "64": {
+    "cn": "素可省",
+    "local": "Sukhothai Province"
+  },
+  "65": {
+    "cn": "素攀武里府",
+    "local": "Suphan Buri Province"
+  },
+  "66": {
+    "cn": "素叻府",
+    "local": "Surat Thani Province"
+  },
+  "67": {
+    "cn": "素林省",
+    "local": "Surin Province"
+  },
+  "68": {
+    "cn": "德省",
+    "local": "Tak Province"
+  },
+  "69": {
+    "cn": "董里省",
+    "local": "Trang Province"
+  },
+  "70": {
+    "cn": "达叻省",
+    "local": "Trat Province"
+  },
+  "71": {
+    "cn": "乌汶府",
+    "local": "Ubon Ratchathani Province"
+  },
+  "72": {
+    "cn": "乌隆省",
+    "local": "Udon Thani Province"
+  },
+  "73": {
+    "cn": "颇为省",
+    "local": "Uthai Thani Province"
+  },
+  "74": {
+    "cn": "程逸府",
+    "local": "Uttaradit Province"
+  },
+  "75": {
+    "cn": "也拉省",
+    "local": "Yala Province"
+  },
+  "76": {
+    "cn": "亚索顿省",
+    "local": "Yasothon Province"
+  }
+}

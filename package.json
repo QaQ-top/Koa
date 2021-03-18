@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "asbuild": "asc wast/app.ts -b generate/wasm/app.wasm --sourceMap  --debug",
-    "start": "nodemon --exec ts-node app.ts",
+    "start": "ts-node app.ts",
     "dev": "npm run asbuild && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,0 +1,334 @@
+{
+  "0": {
+    "cn": "托木斯克",
+    "local": "Tomsk"
+  },
+  "1": {
+    "cn": "阿迪格",
+    "local": "Adygey"
+  },
+  "2": {
+    "cn": "卡拉恰伊-切尔克斯",
+    "local": "Karachay-Cherkess"
+  },
+  "3": {
+    "cn": "印古什",
+    "local": "Ingush"
+  },
+  "4": {
+    "cn": "卡巴尔达-巴尔卡里亚",
+    "local": "Kabardin-Balkar"
+  },
+  "5": {
+    "cn": "北奥塞梯",
+    "local": "North Ossetia"
+  },
+  "6": {
+    "cn": "斯塔夫罗波尔的",
+    "local": "Stavropol'"
+  },
+  "7": {
+    "cn": "楚科奇自治区",
+    "local": "Chukchi Autonomous Okrug"
+  },
+  "8": {
+    "cn": "加里宁格勒",
+    "local": "Kaliningrad"
+  },
+  "9": {
+    "cn": "摩尔曼斯克",
+    "local": "Murmansk"
+  },
+  "10": {
+    "cn": "诺夫哥罗德",
+    "local": "Novgorod"
+  },
+  "11": {
+    "cn": "普斯科夫",
+    "local": "Pskov"
+  },
+  "12": {
+    "cn": "列宁格勒",
+    "local": "Leningrad"
+  },
+  "13": {
+    "cn": "城市圣彼得堡",
+    "local": "City of St. Petersburg"
+  },
+  "14": {
+    "cn": "布良斯克",
+    "local": "Bryansk"
+  },
+  "15": {
+    "cn": "斯摩棱斯克",
+    "local": "Smolensk"
+  },
+  "16": {
+    "cn": "卡累利阿共和国",
+    "local": "Karelia"
+  },
+  "17": {
+    "cn": "阿尔汉格尔斯克",
+    "local": "Arkhangel'sk"
+  },
+  "18": {
+    "cn": "伊凡诺沃",
+    "local": "Ivanovo"
+  },
+  "19": {
+    "cn": "科斯特罗马",
+    "local": "Kostroma"
+  },
+  "20": {
+    "cn": "尼泽戈罗德",
+    "local": "Nizhegorod"
+  },
+  "21": {
+    "cn": "特维尔的",
+    "local": "Tver'"
+  },
+  "22": {
+    "cn": "沃洛格达",
+    "local": "Vologda"
+  },
+  "23": {
+    "cn": "雅罗斯拉夫尔",
+    "local": "Yaroslavl'"
+  },
+  "24": {
+    "cn": "卡鲁加",
+    "local": "Kaluga"
+  },
+  "25": {
+    "cn": "库尔斯克",
+    "local": "Kursk"
+  },
+  "26": {
+    "cn": "利佩茨克",
+    "local": "Lipetsk"
+  },
+  "27": {
+    "cn": "莫斯科夫斯卡娅",
+    "local": "Moskovsskaya"
+  },
+  "28": {
+    "cn": "莫斯科",
+    "local": "Moskva"
+  },
+  "29": {
+    "cn": "奥廖尔",
+    "local": "Orel"
+  },
+  "30": {
+    "cn": "罗斯托夫",
+    "local": "Rostov"
+  },
+  "31": {
+    "cn": "图拉",
+    "local": "Tula"
+  },
+  "32": {
+    "cn": "伏尔加格勒",
+    "local": "Volgograd"
+  },
+  "33": {
+    "cn": "别",
+    "local": "Belgorod"
+  },
+  "34": {
+    "cn": "克拉斯诺达尔",
+    "local": "Krasnodar"
+  },
+  "35": {
+    "cn": "莫尔多瓦",
+    "local": "Mordovia"
+  },
+  "36": {
+    "cn": "奔萨",
+    "local": "Penza"
+  },
+  "37": {
+    "cn": "梁赞",
+    "local": "Ryazan'"
+  },
+  "38": {
+    "cn": "坦波夫",
+    "local": "Tambov"
+  },
+  "39": {
+    "cn": "弗拉基米尔",
+    "local": "Vladimir"
+  },
+  "40": {
+    "cn": "沃罗涅日",
+    "local": "Voronezh"
+  },
+  "41": {
+    "cn": "巴什",
+    "local": "Bashkortostan"
+  },
+  "42": {
+    "cn": "车里雅宾斯克",
+    "local": "Chelyabinsk"
+  },
+  "43": {
+    "cn": "库尔干",
+    "local": "Kurgan"
+  },
+  "44": {
+    "cn": "涅涅茨人",
+    "local": "Nenets"
+  },
+  "45": {
+    "cn": "亚马尔·涅涅茨",
+    "local": "Yamal-Nenets"
+  },
+  "46": {
+    "cn": "科米人",
+    "local": "Komi"
+  },
+  "47": {
+    "cn": "基洛夫",
+    "local": "Kirov"
+  },
+  "48": {
+    "cn": "玛丽·艾尔",
+    "local": "Mariy-El"
+  },
+  "49": {
+    "cn": "斯维尔德洛夫斯克",
+    "local": "Sverdlovsk"
+  },
+  "50": {
+    "cn": "乌德穆特",
+    "local": "Udmurt"
+  },
+  "51": {
+    "cn": "阿斯特拉罕",
+    "local": "Astrakhan'"
+  },
+  "52": {
+    "cn": "楚瓦什人",
+    "local": "Chuvash"
+  },
+  "53": {
+    "cn": "卡尔梅克",
+    "local": "Kalmyk"
+  },
+  "54": {
+    "cn": "奥伦堡市",
+    "local": "Orenburg"
+  },
+  "55": {
+    "cn": "萨马拉",
+    "local": "Samara"
+  },
+  "56": {
+    "cn": "萨拉托夫",
+    "local": "Saratov"
+  },
+  "57": {
+    "cn": "鞑靼斯坦",
+    "local": "Tatarstan"
+  },
+  "58": {
+    "cn": "乌里亚诺夫斯克",
+    "local": "Ul'yanovsk"
+  },
+  "59": {
+    "cn": "汉蒂·曼西",
+    "local": "Khanty-Mansiy"
+  },
+  "60": {
+    "cn": "鄂木斯克",
+    "local": "Omsk"
+  },
+  "61": {
+    "cn": "秋明州",
+    "local": "Tyumen'"
+  },
+  "62": {
+    "cn": "阿尔泰",
+    "local": "Altay"
+  },
+  "63": {
+    "cn": "戈尔诺-阿尔泰",
+    "local": "Gorno-Altay"
+  },
+  "64": {
+    "cn": "克麦罗沃",
+    "local": "Kemerovo"
+  },
+  "65": {
+    "cn": "俄罗斯哈卡斯",
+    "local": "Khakass"
+  },
+  "66": {
+    "cn": "新西伯利亚",
+    "local": "Novosibirsk"
+  },
+  "67": {
+    "cn": "车臣",
+    "local": "Chechnya"
+  },
+  "68": {
+    "cn": "达吉斯坦",
+    "local": "Dagestan"
+  },
+  "69": {
+    "cn": "伊尔库茨克",
+    "local": "Irkutsk"
+  },
+  "70": {
+    "cn": "克拉斯诺雅茨克",
+    "local": "Krasnoyarsk"
+  },
+  "71": {
+    "cn": "图瓦",
+    "local": "Tuva"
+  },
+  "72": {
+    "cn": "布里亚特人",
+    "local": "Buryat"
+  },
+  "73": {
+    "cn": "黑龙江",
+    "local": "Amur"
+  },
+  "74": {
+    "cn": "赤塔",
+    "local": "Chita"
+  },
+  "75": {
+    "cn": "皮里莫尔耶",
+    "local": "Primor'ye"
+  },
+  "76": {
+    "cn": "萨哈（雅库特）",
+    "local": "Sakha (Yakutia)"
+  },
+  "77": {
+    "cn": "犹太自治州",
+    "local": "Yevrey"
+  },
+  "78": {
+    "cn": "哈巴罗夫斯克",
+    "local": "Khabarovsk"
+  },
+  "79": {
+    "cn": "马加·布里亚特扬",
+    "local": "Maga Buryatdan"
+  },
+  "80": {
+    "cn": "库页岛",
+    "local": "Sakhalin"
+  },
+  "81": {
+    "cn": "彼尔姆",
+    "local": "Perm'"
+  },
+  "82": {
+    "cn": "堪察加半岛",
+    "local": "Kamchatka"
+  }
+}

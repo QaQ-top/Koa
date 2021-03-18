@@ -1,0 +1,254 @@
+{
+  "0": {
+    "cn": "安江省",
+    "local": "An Giang province"
+  },
+  "1": {
+    "cn": "北江省",
+    "local": "Bac Giang province"
+  },
+  "2": {
+    "cn": "巴坎省",
+    "local": "Bac Kan province"
+  },
+  "3": {
+    "cn": "巴克普莱斯省",
+    "local": "Bac Lieu province"
+  },
+  "4": {
+    "cn": "北宁省",
+    "local": "Bac Ninh province"
+  },
+  "5": {
+    "cn": "巴利亚-翁头省",
+    "local": "Ba Ria–Vung Tau province"
+  },
+  "6": {
+    "cn": "本特雷省",
+    "local": "Ben Tre province"
+  },
+  "7": {
+    "cn": "平定省省",
+    "local": "Binh Dinh province"
+  },
+  "8": {
+    "cn": "平阳省",
+    "local": "Binh Duong province"
+  },
+  "9": {
+    "cn": "阿萍港区省",
+    "local": "Binh Phuoc province"
+  },
+  "10": {
+    "cn": "平顺省",
+    "local": "Binh Thuan province"
+  },
+  "11": {
+    "cn": "金瓯省",
+    "local": "Ca Mau province"
+  },
+  "12": {
+    "cn": "芹苴市",
+    "local": "Can Tho City"
+  },
+  "13": {
+    "cn": "高平省",
+    "local": "Cao Bang province"
+  },
+  "14": {
+    "cn": "达乐省",
+    "local": "Dak Lak province"
+  },
+  "15": {
+    "cn": "多部委",
+    "local": "Dak Nong province"
+  },
+  "16": {
+    "cn": "岘港市",
+    "local": "Da Nang City"
+  },
+  "17": {
+    "cn": "奠边省",
+    "local": "Dien Bien province"
+  },
+  "18": {
+    "cn": "同奈省",
+    "local": "Dong Nai province"
+  },
+  "19": {
+    "cn": "同塔省",
+    "local": "Dong Thap province"
+  },
+  "20": {
+    "cn": "嘉莱省",
+    "local": "Gia Lai Province"
+  },
+  "21": {
+    "cn": "哈江省",
+    "local": "Ha Giang province"
+  },
+  "22": {
+    "cn": "海防港",
+    "local": "Hai Phong"
+  },
+  "23": {
+    "cn": "河南省",
+    "local": "Ha Nam province"
+  },
+  "24": {
+    "cn": "河内",
+    "local": "Hanoi"
+  },
+  "25": {
+    "cn": "哈丁省",
+    "local": "Ha Tinh province"
+  },
+  "26": {
+    "cn": "后江省",
+    "local": "Hau Giang province"
+  },
+  "27": {
+    "cn": "阿花太平省",
+    "local": "Hoa Binh province"
+  },
+  "28": {
+    "cn": "胡志明市",
+    "local": "Ho Chi Minh City"
+  },
+  "29": {
+    "cn": "挂日圆省",
+    "local": "Hung Yen province"
+  },
+  "30": {
+    "cn": "同庆省省",
+    "local": "Khanh Hoa province"
+  },
+  "31": {
+    "cn": "坚江省",
+    "local": "Kien Giang province"
+  },
+  "32": {
+    "cn": "角度胃省",
+    "local": "Kon Tum province"
+  },
+  "33": {
+    "cn": "荔洲省",
+    "local": "Lai Chau province"
+  },
+  "34": {
+    "cn": "林",
+    "local": "Lam Dong province"
+  },
+  "35": {
+    "cn": "郎顺府",
+    "local": "Lang Son province"
+  },
+  "36": {
+    "cn": "老蔡省",
+    "local": "Lao Cai province"
+  },
+  "37": {
+    "cn": "隆安省",
+    "local": "Long An province"
+  },
+  "38": {
+    "cn": "南定省省",
+    "local": "Nam Dinh province"
+  },
+  "39": {
+    "cn": "义安省",
+    "local": "Nghe An province"
+  },
+  "40": {
+    "cn": "全国省内",
+    "local": "Ninh Binh province"
+  },
+  "41": {
+    "cn": "宁顺省",
+    "local": "Ninh Thuan province"
+  },
+  "42": {
+    "cn": "富富省",
+    "local": "Phu Tho province"
+  },
+  "43": {
+    "cn": "富安省",
+    "local": "Phu Yen province"
+  },
+  "44": {
+    "cn": "广平省",
+    "local": "Quang Binh province"
+  },
+  "45": {
+    "cn": "广南省",
+    "local": "Quang Nam province"
+  },
+  "46": {
+    "cn": "广义省",
+    "local": "Quang Ngai province"
+  },
+  "47": {
+    "cn": "广宁省",
+    "local": "Quang Ninh province"
+  },
+  "48": {
+    "cn": "广三省",
+    "local": "Quang Tri province"
+  },
+  "49": {
+    "cn": "董里府",
+    "local": "Soc Trang province"
+  },
+  "50": {
+    "cn": "山罗省",
+    "local": "Son La province"
+  },
+  "51": {
+    "cn": "西宁省",
+    "local": "Tay Ninh province"
+  },
+  "52": {
+    "cn": "太平省",
+    "local": "Thai Binh province"
+  },
+  "53": {
+    "cn": "泰国阮省",
+    "local": "Thai Nguyen province"
+  },
+  "54": {
+    "cn": "清化省",
+    "local": "Thanh Hoa province"
+  },
+  "55": {
+    "cn": "承天顺化省",
+    "local": "Thua Thien–Hue province"
+  },
+  "56": {
+    "cn": "天江省",
+    "local": "Tien Giang province"
+  },
+  "57": {
+    "cn": "海杜省",
+    "local": "Tỉnh Hải Dương"
+  },
+  "58": {
+    "cn": "茶荣省",
+    "local": "Tra Vinh province"
+  },
+  "59": {
+    "cn": "广元省",
+    "local": "Tuyen Quang province"
+  },
+  "60": {
+    "cn": "长福省",
+    "local": "Vinh Long province"
+  },
+  "61": {
+    "cn": "荣福省",
+    "local": "Vinh Phuc province"
+  },
+  "62": {
+    "cn": "安百省",
+    "local": "Yen Bai province"
+  }
+}

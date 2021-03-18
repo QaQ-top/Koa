@@ -1,0 +1,190 @@
+{
+  "0": {
+    "cn": "爱知",
+    "local": "Aichi"
+  },
+  "1": {
+    "cn": "秋田犬",
+    "local": "Akita"
+  },
+  "2": {
+    "cn": "青森县",
+    "local": "Aomori"
+  },
+  "3": {
+    "cn": "千叶",
+    "local": "Chiba"
+  },
+  "4": {
+    "cn": "特别县",
+    "local": "Ehime Prefecture"
+  },
+  "5": {
+    "cn": "福井县",
+    "local": "Fukui Prefecture"
+  },
+  "6": {
+    "cn": "福冈县",
+    "local": "Fukuoka Prefecture"
+  },
+  "7": {
+    "cn": "福岛",
+    "local": "Fukushima"
+  },
+  "8": {
+    "cn": "岐阜县",
+    "local": "Gifu Prefecture"
+  },
+  "9": {
+    "cn": "群马县",
+    "local": "Gunma"
+  },
+  "10": {
+    "cn": "广岛",
+    "local": "Hiroshima"
+  },
+  "11": {
+    "cn": "北海道",
+    "local": "Hokkaido"
+  },
+  "12": {
+    "cn": "兵库县",
+    "local": "Hyogo Prefecture"
+  },
+  "13": {
+    "cn": "茨城县",
+    "local": "Ibaraki"
+  },
+  "14": {
+    "cn": "石川县",
+    "local": "Ishikawa Prefecture"
+  },
+  "15": {
+    "cn": "岩手县",
+    "local": "Iwate"
+  },
+  "16": {
+    "cn": "香川县",
+    "local": "Kagawa Prefecture"
+  },
+  "17": {
+    "cn": "鹿儿岛县",
+    "local": "Kagoshima Prefecture"
+  },
+  "18": {
+    "cn": "神奈川县",
+    "local": "Kanagawa"
+  },
+  "19": {
+    "cn": "高知县",
+    "local": "Kōchi Prefecture"
+  },
+  "20": {
+    "cn": "熊本",
+    "local": "Kumamoto"
+  },
+  "21": {
+    "cn": "京都知事",
+    "local": "Kyoto Prefecture"
+  },
+  "22": {
+    "cn": "三重县",
+    "local": "Mie Prefecture"
+  },
+  "23": {
+    "cn": "宫城",
+    "local": "Miyagi"
+  },
+  "24": {
+    "cn": "宫崎县",
+    "local": "Miyazaki Prefecture"
+  },
+  "25": {
+    "cn": "长野",
+    "local": "Nagano"
+  },
+  "26": {
+    "cn": "长崎县",
+    "local": "Nagasaki Prefecture"
+  },
+  "27": {
+    "cn": "奈良县",
+    "local": "Nara Prefecture"
+  },
+  "28": {
+    "cn": "新泻",
+    "local": "Niigata"
+  },
+  "29": {
+    "cn": "大分县",
+    "local": "Oita"
+  },
+  "30": {
+    "cn": "日本冈山县",
+    "local": "Okayama Prefecture"
+  },
+  "31": {
+    "cn": "冲绳县",
+    "local": "Okinawa Prefecture"
+  },
+  "32": {
+    "cn": "大阪县",
+    "local": "Osaka Prefecture"
+  },
+  "33": {
+    "cn": "传奇县",
+    "local": "Saga Prefecture"
+  },
+  "34": {
+    "cn": "埼玉县",
+    "local": "Saitama"
+  },
+  "35": {
+    "cn": "志贺",
+    "local": "Shiga"
+  },
+  "36": {
+    "cn": "岛根县",
+    "local": "Shimane"
+  },
+  "37": {
+    "cn": "静冈市",
+    "local": "Shizuoka"
+  },
+  "38": {
+    "cn": "枥木",
+    "local": "Tochigi"
+  },
+  "39": {
+    "cn": "德岛县",
+    "local": "Tokushima Prefecture"
+  },
+  "40": {
+    "cn": "东京",
+    "local": "Tokyo"
+  },
+  "41": {
+    "cn": "各级县",
+    "local": "Tottori Prefecture"
+  },
+  "42": {
+    "cn": "富山",
+    "local": "Toyama"
+  },
+  "43": {
+    "cn": "和歌山县",
+    "local": "Wakayama Prefecture"
+  },
+  "44": {
+    "cn": "山形",
+    "local": "Yamagata"
+  },
+  "45": {
+    "cn": "山口夏男",
+    "local": "Yamaguchi"
+  },
+  "46": {
+    "cn": "山梨县",
+    "local": "Yamanashi"
+  }
+}
